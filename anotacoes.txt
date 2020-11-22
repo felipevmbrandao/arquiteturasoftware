@@ -1,0 +1,6 @@
+** Anotações do Curso de Arquitetura **
+
+http://www.soapclient.com/xml/soapresponder.wsdl
+
+https://developer.mozilla.org/pt-PT/docs/Web/Http
+
